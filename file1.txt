@@ -1,1 +1,3 @@
 first line after the commit ;
+try to unstage ;
+unstage sucess adding file to commit
